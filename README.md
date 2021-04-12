@@ -1,5 +1,11 @@
-# TCP_IP
-## TCP_IP
+# 201644091 이연국
+## 7주차 과제
+
+<br />
+
+<img width="" height="" src="./png/week7_exam.png" />
+
+* * *
 
 [네이버](https://www.naver.com)
 
